@@ -2,4 +2,9 @@
 # <h2> This is also an header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
 Checking MD
